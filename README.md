@@ -66,7 +66,7 @@
 
 ---
 
-<img align="left" alt="MurtajaZiad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MurtajaZiad&show_icons=true&hide_border=true" />
+<img align="left" alt="MurtajaZiad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MurtajaZiad&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://murtajaziad.xyz
 [twitter]: https://twitter.com/MurtajaZiad_

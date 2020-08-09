@@ -61,6 +61,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to remove duplicate words from an array in JavaScript?](https://medium.com/@murtajaziad/how-to-remove-duplicate-words-from-an-array-in-javascript-33746e66d007?source=rss-e64f80daef82------2)
 - [Should you store the passwords in the database?](https://medium.com/@murtajaziad/store-passwords-in-the-database-f078b3f73e58?source=rss-e64f80daef82------2)
 <!-- BLOG-POST-LIST:END -->
 

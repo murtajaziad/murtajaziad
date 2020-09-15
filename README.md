@@ -49,6 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Speed coding: Random Meal Generator | برمجة سريعة: جلب وصفة عشوائية](https://www.youtube.com/watch?v=susC3-YxAa4)
+- [ما الفرق بين == و === في الجافاسكربت؟](https://www.youtube.com/watch?v=EUDfn_pxrx4)
+- [ما الفرق بين const ، var و let؟](https://www.youtube.com/watch?v=t2Gy_iFbLY8)
+- [Speed coding: Corona Stats | برمجة سريعة: احصائيات كورونا](https://www.youtube.com/watch?v=lH0gipJ7x9I)
+- [افضل 5 محررات للأكواد في مجال تطوير الويب | Top 5 text editors for web development](https://www.youtube.com/watch?v=mMgb592IFZg)
 <!-- YOUTUBE:END -->
 
 ---

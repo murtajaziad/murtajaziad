@@ -56,6 +56,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello World](https://blog.murtajaziad.xyz/hello-world/)
+- [How to remove duplicate words from an array in JavaScript?](https://blog.murtajaziad.xyz/how-to-remove-duplicate-words-from-an-array-in-javascript/)
+- [Should you store the passwords in the database?](https://blog.murtajaziad.xyz/should-you-store-the-passwords-in-the-database/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

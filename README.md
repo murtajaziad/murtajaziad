@@ -63,6 +63,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Center in CSS with flex?](https://blog.murtajaziad.xyz/how-to-center-in-css-with-flex/)
 - [Hello World](https://blog.murtajaziad.xyz/hello-world/)
 - [How to remove duplicate words from an array in JavaScript?](https://blog.murtajaziad.xyz/how-to-remove-duplicate-words-from-an-array-in-javascript/)
 - [Should you store the passwords in the database?](https://blog.murtajaziad.xyz/should-you-store-the-passwords-in-the-database/)

@@ -63,6 +63,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 code editors for web development.](https://blog.murtajaziad.xyz/top-5-code-editors-for-web-development/)
 - [How to Center in CSS with flex?](https://blog.murtajaziad.xyz/how-to-center-in-css-with-flex/)
 - [Hello World](https://blog.murtajaziad.xyz/hello-world/)
 - [How to remove duplicate words from an array in JavaScript?](https://blog.murtajaziad.xyz/how-to-remove-duplicate-words-from-an-array-in-javascript/)

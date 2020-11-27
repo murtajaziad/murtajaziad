@@ -63,11 +63,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 string methods in JavaScript.](https://blog.murtajaziad.xyz/5-string-methods-in-javascript/)
 - [8 useful console methods in JavaScript.](https://blog.murtajaziad.xyz/8-useful-console-methods-in-javascript/)
 - [How to generate a local SSL certificate?](https://blog.murtajaziad.xyz/how-to-generate-a-local-ssl-certificate/)
 - [Top 5 code editors for web development.](https://blog.murtajaziad.xyz/top-5-code-editors-for-web-development/)
 - [How to Center in CSS with flex?](https://blog.murtajaziad.xyz/how-to-center-in-css-with-flex/)
-- [Hello World](https://blog.murtajaziad.xyz/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

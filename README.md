@@ -63,11 +63,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Check if a value exists in an array using Javascript.](https://blog.murtajaziad.xyz/check-if-a-value-exists-in-an-array-using-javascript/)
 - [How to create a clock using JavaScript?](https://blog.murtajaziad.xyz/how-to-create-a-clock-using-javascript/)
 - [5 array methods in JavaScript.](https://blog.murtajaziad.xyz/5-array-methods-in-javascript/)
 - [5 string methods in JavaScript.](https://blog.murtajaziad.xyz/5-string-methods-in-javascript/)
 - [8 useful console methods in JavaScript.](https://blog.murtajaziad.xyz/8-useful-console-methods-in-javascript/)
-- [How to generate a local SSL certificate?](https://blog.murtajaziad.xyz/how-to-generate-a-local-ssl-certificate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -63,11 +63,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 tips for being a better programmer.](https://blog.murtajaziad.xyz/6-tips-for-being-a-better-programmer/)
 - [Check if a value exists in an array using Javascript.](https://blog.murtajaziad.xyz/check-if-a-value-exists-in-an-array-using-javascript/)
 - [How to create a clock using JavaScript?](https://blog.murtajaziad.xyz/how-to-create-a-clock-using-javascript/)
 - [5 array methods in JavaScript.](https://blog.murtajaziad.xyz/5-array-methods-in-javascript/)
 - [5 string methods in JavaScript.](https://blog.murtajaziad.xyz/5-string-methods-in-javascript/)
-- [8 useful console methods in JavaScript.](https://blog.murtajaziad.xyz/8-useful-console-methods-in-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

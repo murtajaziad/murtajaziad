@@ -63,11 +63,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Divide a list in half using Python.](https://blog.murtajaziad.xyz/divide-a-list-in-half-using-python/)
 - [How to remove the last character of a string in Python?](https://blog.murtajaziad.xyz/how-to-remove-the-last-character-of-a-string-in-python/)
 - [How to remove the first character of a string in Python?](https://blog.murtajaziad.xyz/how-to-remove-the-first-character-of-a-string-in-python/)
 - [6 tips for being a better programmer.](https://blog.murtajaziad.xyz/6-tips-for-being-a-better-programmer/)
 - [Check if a value exists in an array using Javascript.](https://blog.murtajaziad.xyz/check-if-a-value-exists-in-an-array-using-javascript/)
-- [How to create a clock using JavaScript?](https://blog.murtajaziad.xyz/how-to-create-a-clock-using-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

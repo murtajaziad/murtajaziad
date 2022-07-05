@@ -1,81 +1,113 @@
-## Hi there, I'm [Murtaja][website] 👋
+![hey](https://user-images.githubusercontent.com/25750396/177311100-fb995b6a-f4ee-429c-b471-53db766a5f01.png)
 
-### Connect with me:
+<h2 align="center">Hey, I'm Murtaja!</h2>
+<p align="center">
+  <a href="https://murtajaziad.com/"><img alt="Website" src="https://img.shields.io/badge/Website-murtajaziad.com-yellow?color=%23B08968&logo=website&style=for-the-badge"></a>
+  <a href="https://twitter.com/murtajaziad_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/murtajaziad_?color=%231d9bf0&label=Twitter&logo=twitter&style=for-the-badge"></a>
+</p>
 
-[<img align="left" alt="MurtajaZiad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MurtajaZiad | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MurtajaZiad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MurtajaZiad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MurtajaZiad | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<img align="right" alt="MurtajaZiad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MurtajaZiad&show_icons=true&hide_border=true&count_private=true" />
+
+- 👨🏻‍💻 Full-Stack Web Developer & Freelancer
+- 📌 Live in Baghdad, Iraq
+- 📧 Mail me at mail@murtajaziad.com
+- 📇 Connect with me on [Instagram](https://instagram.com/murtajaziad), [Twitter](https://twitter.com/MurtajaZiad_) and [LinkedIn](https://linkedin.com/in/murtajaziad)
+
 <br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
-<img align="left" alt="TailwindCSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
 <br />
 <br />
 
 ---
 
-### 📺 Latest YouTube Videos
+<h3 align="center">Technologies & Tools ⚒️</h2>
 
-<!-- YOUTUBE:START -->
-- [Speed coding: Random Meal Generator | برمجة سريعة: جلب وصفة عشوائية](https://www.youtube.com/watch?v=susC3-YxAa4)
-- [ما الفرق بين == و === في الجافاسكربت؟](https://www.youtube.com/watch?v=EUDfn_pxrx4)
-- [ما الفرق بين const ، var و let؟](https://www.youtube.com/watch?v=t2Gy_iFbLY8)
-- [Speed coding: Corona Stats | برمجة سريعة: احصائيات كورونا](https://www.youtube.com/watch?v=lH0gipJ7x9I)
-- [افضل 5 محررات للأكواد في مجال تطوير الويب | Top 5 text editors for web development](https://www.youtube.com/watch?v=mMgb592IFZg)
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to calculate the number of days between 2 dates in Python?](https://murtajaziad.com/blog/how-to-calculate-the-number-of-days-between-2-dates-in-python)
-- [How to flatten an array in JavaScript?](https://murtajaziad.com/blog/how-to-flatten-an-array-in-javascript)
-- [Divide a list in half using Python.](https://murtajaziad.com/blog/divide-a-list-in-half-using-python)
-- [How to remove the last character of a string in Python?](https://murtajaziad.com/blog/how-to-remove-the-last-character-of-a-string-in-python)
-- [How to remove the first character of a string in Python?](https://murtajaziad.com/blog/how-to-remove-the-first-character-of-a-string-in-python)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<img align="left" alt="MurtajaZiad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MurtajaZiad&show_icons=true&hide_border=true&count_private=true" />
-
-[website]: https://murtajaziad.com
-[twitter]: https://twitter.com/MurtajaZiad_
-[youtube]: https://www.youtube.com/channel/UCjurfkhxHmwQMlXqRjLEBKg
-[instagram]: https://instagram.com/MurtajaZiad
-[facebook]: https://www.facebook.com/MurtajaZiadOfficial
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+      <p>VS Code</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+      <p>HTML</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="CSS3" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+      <p>CSS</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="Sass" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+      <p>Sass</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="JavaScript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+      <p>JavaScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img alt="TypeScript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+      <p>TypeScript</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="React" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+      <p>React</p>
+    </td>
+    <td align="center" width="96">
+      <img  alt="Vue" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+      <p>Vue</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="Bootstrap" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+      <p>Bootstrap</p>
+    </td>
+    <td align="center" width="96">
+      <img  alt="TailwindCSS" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+      <p>TailwindCSS</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img alt="Node.js" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+      <p>Node.js</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="MongoDB" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+      <p>MongoDB</p>
+    </td>
+    <td align="center" width="96">
+      <img  alt="Express" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+      <p>Express</p>
+    </td>
+    <td align="center" width="96">
+      <img  alt="Git" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+      <p>Git</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+      <p>GitHub</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img alt="Python" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+      <p>Python</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="Supabase" width="48px" src="https://user-images.githubusercontent.com/25750396/177357495-f8ce666a-7521-4ff9-a25f-21334f65ae7e.svg" />
+      <p>Supabase</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="Next.js" width="48px" src="https://nextjs.org/static/favicon/favicon.ico" />
+      <p>Next.js</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="WordPress" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+      <p>WordPress</p>
+    </td>
+    <td align="center" width="96">
+      <img alt="Terminal" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+      <p>Terminal</p>
+    </td>
+  </tr>
+</table>
